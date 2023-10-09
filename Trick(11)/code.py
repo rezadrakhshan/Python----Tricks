@@ -1,8 +1,8 @@
 todo_list = [
-    'learning django',
-    'brush teeth',
-    'training',
-    'go to gym'
+    'Learning django',
+    'Brush teeth',
+    'Training',
+    'Go to gym'
 ]
 for i , thing in enumerate(todo_list):
     print(i, thing.title())
